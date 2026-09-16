@@ -1,4 +1,4 @@
-# Project CleanSky: The "Fuck Shannon-Hartley" Manifesto
+# NewSat ASIC: The "Fuck Shannon-Hartley" Manifesto
 **Author**: Juho Artturi Hemminki
 ---
 
@@ -10,7 +10,7 @@ The **Shannon-Hartley Theorem** defines the absolute physical ceiling for error-
 
 Traditional linear engineering dictates that once external additive white Gaussian noise (\(N\)) intermingles with an analog signal wavefront (\(S\)), the signal-to-noise ratio (SNR) becomes frozen, yielding a net zero gain in signal purity during subsequent linear filtering.
 
-**Project CleanSky fundamentally rejects this limit.** By replacing flat Euclidean measurements with a multi-stage closed geometric envelope based on the Golden Ratio (\(\phi \approx 1.6180339887\)), CleanSky introduces an asymmetric transmission topology that forces noise vectors into an asymptotic decay loop upon reception.
+**NewSat ASIC fundamentally rejects this limit.** By replacing flat Euclidean measurements with a multi-stage closed geometric envelope based on the Golden Ratio (\(\phi \approx 1.6180339887\)), CleanSky introduces an asymmetric transmission topology that forces noise vectors into an asymptotic decay loop upon reception.
 
 ---
 
@@ -55,7 +55,7 @@ The complete verification code modeling the multi-stage pipeline under both line
 
 ## 6. Conclusion
 
-By structuring the analog transmission vector into an asymmetric, multi-stage cascade anchored within the algebraic field \(\mathbb{Q}(\sqrt{5})\), Project CleanSky isolates payload data from ambient medium entropy, redefining the limits of analog transmission over deep-space transponder links.
+By structuring the analog transmission vector into an asymmetric, multi-stage cascade anchored within the algebraic field \(\mathbb{Q}(\sqrt{5})\), NewSat ASIC isolates payload data from ambient medium entropy, redefining the limits of analog transmission over deep-space transponder links.
 
 ---
 
